@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+:root{
+    --orchid-pink: #E2B4BD;
+    --rose-taupe: #9B6A6C;
+}
+
+main{
+    border: 2px solid var(--orchid-pink);
+}
+
+div{
+    border: 2px solid var(--rose-taupe);
+    display: inline;
+}
